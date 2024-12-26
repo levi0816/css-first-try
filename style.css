@@ -1,0 +1,16 @@
+h1 {
+    color :blue;
+}
+
+#red {
+    color: aqua;
+}
+
+.color-title {
+    font-weight: normal;
+}
+
+img {
+    height: 100px;
+    width: 400px;
+}
